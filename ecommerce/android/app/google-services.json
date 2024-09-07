@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "676328783940",
+    "project_id": "trend-market-a473e",
+    "storage_bucket": "trend-market-a473e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676328783940:android:ee70700d5d70d24a187c11",
+        "android_client_info": {
+          "package_name": "com.trendmarket.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn5UnmRwOjgq1cRvY0OJwKuo3m2oG-_CQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
